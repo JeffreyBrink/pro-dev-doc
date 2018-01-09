@@ -9,7 +9,7 @@
 		<h1>Professional Development</h1>
 		<p>
 			last updated:  December 8th, 2017
-			<br>Career Buddy:  TBA
+			<br>Career Buddy:  Nat Gustafson
 		</p>
 
 		<div>
