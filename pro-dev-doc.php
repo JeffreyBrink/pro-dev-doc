@@ -4,9 +4,10 @@
 	<link rel="stylesheet" type="text/css" href="index.css">
 	<meta charset="utf-8">
 	<title>Jeffrey Brink's professional development document</title>
-	Jeffrey Brink's
 </head>
 <body>
+	<h1>Jeffrey Brink's</h1>
+	<h1>Professional Development</h1>
 
 </body>
 </html>
