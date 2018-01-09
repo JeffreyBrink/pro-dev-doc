@@ -8,7 +8,7 @@
 		<h1>Jeffrey Brink's </h1>
 		<h1>Professional Development</h1>
 		<p>
-			last updated:  December 8th, 2017
+			last updated:  December 9th, 2017
 			<br>Career Buddy:  Nat Gustafson
 		</p>
 
@@ -62,7 +62,9 @@
 				<li>words words words</li>
 			</ul>
 		</div>
-			<p>This is where a paragraph should go, but I missed what he said about the paragraph so I wrote this.</p>
+			<p>This is where a paragraph should go, but I missed what he said about the paragraph so I wrote this.
+			</p>
+			<p>I use my whole brain very seldomly.  With my ADHD it is hard to ever break out of my right brain habits and be analytical.  I have started taking medications recently to help and they seem to be working.</p>
 		<div>
 			<h2>Weekly reflections</h2>
 			<ul>
