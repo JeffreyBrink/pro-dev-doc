@@ -24,25 +24,25 @@
 		<ul>
 			<li>My learning style</li>
 			<li>40% visual</li>
-			<li>30%auditory</li>
-			<li>30%tactile</li>
+			<li>30% auditory</li>
+			<li>30% tactile</li>
 		</ul>
 		</div>
 		<div>
 			<h2>Quantitive Accomplishments</h2>
 			<ul>
-				<li>thing 1</li>
-				<li>thing 2</li>
-				<li>thing 3</li>
+				<li>I have produced and been Director of Photography on 4 short films.</li>
+				<li>I have written grant proposals in previous jobs that recieved over $300,000 in Federal funds.</li>
+				<li>I have helped over 100 abuse victems attain restraining orders and escape domestic abuse</li>
 			</ul>
 		</div>
 
 		<div>
 			<h2>Qualitative Features</h2>
 			<ul>
-				<li>thing 1</li>
-				<li>thing 2</li>
-				<li>thing 3</li>
+				<li>I have had photographs shown in museums</li>
+				<li>I can create awesome 3d model effects in Adobe after effects</li>
+				<li>I once met Dwayne 'the Rock' Johnson</li>
 			</ul>
 		</div>
 		<div>
@@ -62,6 +62,7 @@
 				<li>words words words</li>
 			</ul>
 		</div>
+			<p>This is where a paragraph should go, but I missed what he said about the paragraph so I wrote this.</p>
 		<div>
 			<h2>Weekly reflections</h2>
 			<ul>
