@@ -60,7 +60,7 @@
 			<h2>Elevator Pitch</h2>
 			<ul>
 				<li>version 1</li>
-				<li>My name is Jeffrey Brink, and I design unique and fluid multi media interfaces to create a bond between entities and end users.  How many people a day visit your site?</li>
+				<li>My name is Jeffrey Brink, and I am committed to saving two of our most precious yet grossly forgotten resources: Our children, and through art, our collective souls.</li>
 				<li>version 2</li>
 				<li>words words words</li>
 			</ul>
