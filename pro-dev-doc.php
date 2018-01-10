@@ -48,9 +48,12 @@
 		<div>
 			<h2>Golden circle</h2>
 			<ul>
-				<li>what</li>
-				<li>where</li>
-				<li>why</li>
+				<li>I want to bring the Arts to children who otherwise might never see a future where art can be a reality.<br>
+				A child who attends a performing arts school becomes The Fugees.<br>Those children that could never attend such a school listen to the Fugees.</li>
+				<li>Locally first, then wherever it can help.</li>
+				<li>As a victim of childhood sexual abuse who also suffered from ADHD when no one knew what it was, I was literally<br>
+				a forgotten child.  I saw no future where anything could be creative or beautiful.
+				</li>
 			</ul>
 		</div>
 		<div>
