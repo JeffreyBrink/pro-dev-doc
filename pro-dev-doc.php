@@ -33,7 +33,7 @@
 			<ul>
 				<li>I have produced and been Director of Photography on 4 short films.</li>
 				<li>I have written grant proposals in previous jobs that recieved over $300,000 in Federal funds.</li>
-				<li>I have helped over 100 abuse victems attain restraining orders and escape domestic abuse</li>
+				<li>I have helped over 100 abuse victims attain restraining orders and escape domestic abuse</li>
 			</ul>
 		</div>
 
