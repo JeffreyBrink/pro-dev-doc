@@ -72,7 +72,12 @@
 			<h2>Weekly reflections</h2>
 			<ul>
 				<li>week 1</li>
-				<li>words words words</li>
+				<br>Looking back on week zero I am both satisfied with my performance and a little disappointed with myself.
+				<br>I am giving everything I can but can't shake the feeling that I am being simply outworked by my cohort companions.
+				<br>Overall I am pleased with both the choice I made to attend Deep Dive and my growing profeciency.
+				<br>Learning this week that front-end UI/UX designers that are also developers are in great demand showed me where I fit into the industry.
+				<br>
+				<br>
 				<li>week 2</li>
 				<li>words words words</li>
 			</ul>
