@@ -8,7 +8,7 @@
 		<h1>Jeffrey Brink's </h1>
 		<h1>Professional Development</h1>
 		<p>
-			last updated:  December 9th, 2017
+			last updated:  December 15th, 2017
 			<br>Career Buddy:  Nat Gustafson
 		</p>
 
