@@ -60,7 +60,7 @@
 			<h2>Elevator Pitch</h2>
 			<ul>
 				<li>version 1</li>
-				<li>My name is Jeffrey Brink, and I am committed to saving two of our most precious yet grossly forgotten resources: Our children, and through art, our collective souls.</li>
+				<li>My name is Jeffrey Brink, and I am a New Mexico trained full stack web designer and developer committed to connecting children who will benefit from the arts with the arts and artists who can show them a positive future through creation.</li>
 				<li>version 2</li>
 				<li>words words words</li>
 			</ul>
@@ -71,7 +71,7 @@
 		<div>
 			<h2>Weekly reflections</h2>
 			<ul>
-				<li>week 1</li>
+				<li>week 0</li>
 				<br>Looking back on week zero I am both satisfied with my performance and a little disappointed with myself.
 				<br>I am giving everything I can but can't shake the feeling that I am being simply outworked by my cohort companions.
 				<br>Overall I am pleased with both the choice I made to attend Deep Dive and my growing profeciency.
