@@ -20,7 +20,7 @@
 			</ul>
 		</div>
 		<div>
-			<h2>Homework Activities</h2>
+			<h2>Homework Activities I do</h2>
 		<ul>
 			<li>My learning style</li>
 			<li>40% visual</li>
