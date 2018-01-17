@@ -82,6 +82,6 @@
 				<li>words words words</li>
 			</ul>
 		</div>
-
+		<embed src="resume.pdf" width="500" height="375" type="application/pdf">
 	</body>
 </html>
