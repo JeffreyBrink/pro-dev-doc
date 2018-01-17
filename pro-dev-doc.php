@@ -82,6 +82,13 @@
 				<li>words words words</li>
 			</ul>
 		</div>
+		<div><ph2>After googling mysel both as a data search and an image search,<br>
+			  I found I have a very small online presence.  This should make it<br>
+				easier to keep my personal life seperate from my private life.
+		</ph2></div>
+		<br>
+		<br>
+		<br>
 		<embed src="resume.pdf" width="500" height="375" type="application/pdf">
 	</body>
 </html>
