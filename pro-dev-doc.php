@@ -8,7 +8,7 @@
 		<h1>Jeffrey Brink's </h1>
 		<h1>Professional Development</h1>
 		<p>
-			last updated:  December 15th, 2017
+			last updated:  December 21th, 2017
 			<br>Career Buddy:  Nat Gustafson
 		</p>
 
@@ -78,8 +78,13 @@
 				<br>Learning this week that front-end UI/UX designers that are also developers are in great demand showed me where I fit into the industry.
 				<br>
 				<br>
+				<li>week 1</li>
+				<br>My reflections on week 1 are simply a blur of information and stress.  I'm not sure if the train is coming to give me a ride or run me over.
+				<br>
+				<br>
 				<li>week 2</li>
-				<li>words words words</li>
+				<br>Well, know I know that the train definitely wasn't coming to pick me up.  I am stressed, but hopeful.  If I can get through this data stuff I will love my job.
+
 			</ul>
 		</div>
 		<div><ph2>After googling mysel both as a data search and an image search,<br>
