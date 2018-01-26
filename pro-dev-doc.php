@@ -87,13 +87,47 @@
 
 			</ul>
 		</div>
-		<div><ph2>After googling mysel both as a data search and an image search,<br>
+		<br>
+		<br>
+		<div><h3>After googling myself both as a data search and an image search,<br>
 			  I found I have a very small online presence.  This should make it<br>
 				easier to keep my personal life seperate from my private life.
-		</ph2></div>
+		</h3></div>
+		<br>
+		<h2>Worth Questions</h2>
+		<h3>Internal factors that keep me from acheiving my goals are:</h3>
+		<ul>
+			<li>Fear</li>
+			<li>The ability to make any situation stressful.</li>
+			<li>Guilt</li>
+		</ul>
+		<h3>External factors that keep me from acheiving my goals are:</h3>
+		<ul>
+			<li><h1>Family</h1></li>
+			<li>Perception</li>
+			<li>Lack of education/experience</li>
+		</ul>
+		<br>
+		<h3>How do you personally create value for others?</h3>
+		     I create value for others by assuming the roles of people<br>
+			  they would have to pay for the services they ask me to do for free.
+			  If you need a plumber, Call Jeff.  Never mind that he knows NOTHING<br>
+			  plumbing.  The amount of time I spend troubleshooting other peoples<br>
+			  systems without compensation is mind boggling.
+			<br>
+		<br>
+	<br>
+
+		<h3>Has anyone ever told you that you have potential professionally?  Do you believe it?</h3>
+		I have been told that I could possibly make a career out of photography, film editing, and the sub-specialty<br>
+		careers that exist therein.  I have never believed them because my self-respect is too low to think that<br>
+		I could ever pull it off.  Plus, the people that tell me these things are never the people who could actually<br>
+		help make it happen.
 		<br>
 		<br>
 		<br>
-		<embed src="resume.pdf" width="500" height="375" type="application/pdf">
+		<br>
+		<h3>Resume:
+		</h3><embed src="resume.pdf" width="500" height="375" type="application/pdf">
 	</body>
 </html>
