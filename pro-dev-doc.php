@@ -62,7 +62,7 @@
 				<li>version 1</li>
 				<li>My name is Jeffrey Brink, and I am a New Mexico trained full stack web designer and developer committed to connecting children who will benefit from the arts with the arts and artists who can show them a positive future through creation.</li>
 				<li>version 2</li>
-				<li>Hello, I am Jeffrey Brink and I create dynamic, fluid User interface and experiences </li>
+				<li>Hello, I am Jeffrey Brink and I create dynamic, fluid User interface and experiences that grow brands and businesses.  Do you like where your brand is currently sitting in the market?</li>
 			</ul>
 		</div>
 			<p>This is where a paragraph should go, but I missed what he said about the paragraph so I wrote this.
