@@ -8,7 +8,7 @@
 		<h1>Jeffrey Brink's </h1>
 		<h1>Professional Development</h1>
 		<p>
-			last updated:  December 21th, 2017
+			last updated:  February 5th, 2017
 			<br>Career Buddy:  Nat Gustafson
 		</p>
 
@@ -62,7 +62,7 @@
 				<li>version 1</li>
 				<li>My name is Jeffrey Brink, and I am a New Mexico trained full stack web designer and developer committed to connecting children who will benefit from the arts with the arts and artists who can show them a positive future through creation.</li>
 				<li>version 2</li>
-				<li>words words words</li>
+				<li>Hello, I am Jeffrey Brink and I create dynamic, fluid User interface and experiences </li>
 			</ul>
 		</div>
 			<p>This is where a paragraph should go, but I missed what he said about the paragraph so I wrote this.
@@ -84,8 +84,21 @@
 				<br>
 				<li>week 2</li>
 				<br>Well, know I know that the train definitely wasn't coming to pick me up.  I am stressed, but hopeful.  If I can get through this data stuff I will love my job.
+				<br>
+				<br>
+				<li>week 3</li>
+				<br>Week 3 has been tough.  It's been hard to keep track of everything.  The right side of my brain wants me to stop all this foolishness and get back to artistic pursuits. I am also finding it hard to have enough time to study and get enough sleep.
+				<br>
+				<br>
+				<br>
+				<li>Forbidden Island reflection</li>
+
+				I found the Forbidden Island game to be fun and challenging.  I think
+				my team did a great job of communicating.  I look foreward to playing again and beating the game.
+
 			</ul>
 		</div>
+
 		<br>
 		<br>
 		<div><h3>After googling myself both as a data search and an image search,<br>
