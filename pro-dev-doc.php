@@ -84,7 +84,6 @@
 				<br>
 				<li>week 2</li>
 				<br>Well, know I know that the train definitely wasn't coming to pick me up.  I am stressed, but hopeful.  If I can get through this data stuff I will love my job.
-
 			</ul>
 		</div>
 		<br>
