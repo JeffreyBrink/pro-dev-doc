@@ -140,6 +140,6 @@
 		<br>
 		<br>
 		<h3>Resume:
-		</h3><embed src="resume.pdf" width="500" height="375" type="application/pdf">
+		</h3><embed src="resume-jeffreybrink.pdf" width="500" height="375" type="application/pdf">
 	</body>
 </html>
